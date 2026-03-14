@@ -1,0 +1,20 @@
+# Azure OpenAI
+openai==1.54.0
+azure-identity==1.19.0
+
+# Streamlit for UI
+streamlit==1.39.0
+streamlit-chat==0.1.1
+
+# Utilities
+python-dotenv==1.0.1
+pyyaml==6.0.2
+tiktoken==0.8.0
+
+# Optional but recommended
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+pandas==2.2.0        # For data analysis
+openpyxl==3.1.2      # For Excel file support
+numpy==1.26.4        # For numerical operations
